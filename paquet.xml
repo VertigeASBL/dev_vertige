@@ -1,0 +1,24 @@
+<paquet
+	prefix="dev_vertige"
+	categorie="outil"
+	version="1.0.0"
+	etat="dev"
+	compatibilite="[3.0.20;3.0.*]"
+	logo="prive/themes/spip/images/setup_vertige-64.png"
+	documentation=""
+	schema="1.0.0"
+>
+	<nom>Vertige dev</nom>
+
+	<auteur lien='http://www.vertige.org'>vertige</auteur>
+
+	<licence>GNU/GPL</licence>
+
+	<!--
+			 Installer les plugins SPIP utilisé pour le développment par Vertige ASBL
+	-->
+	<necessite nom="zinit" />
+	<necessite nom="minibando" />
+	<necessite nom="adminer" />
+	<necessite nom="simplog" />
+</paquet>
