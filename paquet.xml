@@ -21,4 +21,5 @@
 	<necessite nom="minibando" />
 	<necessite nom="adminer" />
 	<necessite nom="simplog" />
+	<necessite nom="facteur" />
 </paquet>
