@@ -1,2 +1,2 @@
 # dev vertige
-Plugin de développment
+Une sélection de plugins utiles lors du développment d'un site.
