@@ -6,7 +6,7 @@
 	compatibilite="[3.0.20;3.0.*]"
 	logo="prive/themes/spip/images/setup_vertige-64.png"
 	documentation=""
-	schema="1.0.0"
+	schema="1.0.1"
 >
 	<nom>Vertige dev</nom>
 
@@ -21,5 +21,4 @@
 	<necessite nom="minibando" />
 	<necessite nom="adminer" />
 	<necessite nom="simplog" />
-	<necessite nom="facteur" />
 </paquet>
