@@ -1,7 +1,7 @@
 <paquet
 	prefix="dev_vertige"
 	categorie="outil"
-	version="1.0.0"
+	version="1.1.0"
 	etat="dev"
 	compatibilite="[3.0.20;3.1.*]"
 	logo="prive/themes/spip/images/setup_vertige-64.png"
@@ -21,4 +21,5 @@
 	<necessite nom="minibando" />
 	<necessite nom="adminer" />
 	<necessite nom="simplog" />
+  <necessite nom="incarner" />
 </paquet>
